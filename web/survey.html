@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Exercise 01</title>
+    </head>
+    <body>
+        <h1>ICT-Gradschool Midterm Questionnaire</h1>
+        <form>
+            <fieldset>
+                <legend>Your details</legend>
+                <label for="Name">Name: </label>
+                <input type="text" id="Name" NAME="Name" placeholder="Your name goes here"><br>
+                <label for="email">Email: </label>
+                <input type="text" id="email" NAME="Email" placeholder="Enter valid email"><br>
+                <label for="city">Your city: </label>
+                <input type="text" id="city" NAME="City" placeholder="Choose your city or enter one"><br>
+            </fieldset>
+            <fieldset>
+                <legend>Questionnaire</legend>
+                <p>How are you finding the course? Tick all applicable: </p>
+
+                <input type="checkbox" id="Enjoying it" NAME="Check" value="Enjoying it">
+                <label for="Enjoying it">Enjoying it</label>
+
+                <input type="checkbox" id="Challenging" NAME="Check" value="Challenging">
+                <label for="Challenging">Challenging</label>
+
+                <input type="checkbox" id="Still catching up" NAME="Check" value="Still catching up">
+                <label for="Still catching up">Still catching up</label>
+
+                <input type="checkbox" id="Too hard" NAME="Check" value="Too hard">
+                <label for="Too hard">Too hard</label>
+
+                <input type="checkbox" id="Too many exercises" NAME="Check" value="Too many exercises">
+                <label for="Too many exercises">Too many exercises</label>
+
+                <input type="checkbox" id="Not enough exercises" NAME="Check" value="Not enough exercises">
+                <label for="Not enough exercises">Not enough exercises</label>
+
+                <input type="checkbox" id="Confused" NAME="Check" value="Confused">
+                <label for="Confused">Confused</label>
+                <br>
+                <p>Choose the one that best describes your experience so far:</p>
+                <input type="radio" id="Learning a lot" NAME="Experience" value="Learning a lot">
+                <label for="Learning a lot">Learning a lot</label>
+                <input type="radio" id="Not learning enough" NAME="Experience" value="Not learning enough">
+                <label for="Not learning enough">Not learning enough</label>
+                <input type="radio" id="Okay" NAME="Experience" value="Okay">
+                <label for="Okay">Learning a lot</label>
+                <br>
+                <p>Rate the course so far on a scale from 1 (poor) to 10 (excellent):
+                    <input type="number" name="Rate" Name="Rate" min="1" max="10">
+                </p>
+                <p>Pick your favourite among the animals featured in the course's image gallery exercises
+                    <select name="animal">
+                        <option value="Quokka">Quokka</option>
+                        <option value="Arctic Fox">Arctic Fox</option>
+                        <option value="Wombat">Wombat</option>
+                        <option value="Himalayqan Pika">Himalayqan Pika</option>
+                        <option value="Lynx">Lynx</option>
+                        <option value="Pallas Cat">Pallas Cat</option>
+                        <option value="Pika">Pika</option>
+                        <option value="Red Panda">Red Panda</option>
+                    </select>
+                </p>
+                <p>How can the course be improved? Choose one or more:</p>
+                <select multiple name="Improve">
+                    <option value="Get good">Get good</option>
+                    <option value="Allow Andrew to shout us lunch everyday">"Allow Andrew to shout us lunch everyday
+                    </option>
+                    <option value="Automatic grades">Automatic grades</option>
+                </select>
+                <p>Additional comments:</p>
+                <textarea name="Comments" cols="70" rows="10"></textarea>
+            </fieldset>
+            <br>
+            <input type="submit" value="Done!">
+            <input type="reset" value="Clear">
+        </form>
+    </body>
+</html>

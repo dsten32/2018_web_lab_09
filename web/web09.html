@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Landing page for Lab 09</title>
+        <style type="text/css">
+            body {
+                width: 600px;
+                margin: 6em auto;
+                color: #444;
+                text-align: justify;
+                font-family: sans-serif;
+                font-size: 14pt;
+                line-height: 150%;
+            }
+
+            h1, h2 {
+                text-decoration: lightgrey underline;
+                color: #222;
+            }
+
+            h2 {
+                margin-top: 2em;
+            }
+
+            code {
+                background-color: rgba(255, 167, 182, 0.41);
+                color: darkred;
+                font-family: monospace;
+                border: 1px solid darkred;
+                padding: 1px 5px;
+            }
+
+            a:visited, a:active, a {
+                color: dodgerblue;
+                text-decoration: none;
+            }
+
+            a:hover {
+                text-decoration: underline;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Web Lab 09 landing page</h1>
+        <p>By default when you run a Java Servlet application, IntelliJ will open your chosen browser to the 'root' of
+            the web application. If you do not have a resource mapped to the <code>&lt;url-pattern&gt;</code> of
+            <code>/</code> then you will get a 404 error as the Tomcat server does not know what to display for you. To
+            avoid this error you can configure what file to display by default by specifying file names in the
+            (optional) <code>&lt;welcome-file-list&gt;</code> tag in your <code>web.xml</code> file. If this is not
+            specified, Tomcat will by default try to serve you a file named <code>index.html</code> or
+            <code>index.jsp</code>.
+        </p>
+
+        <p>To show that you can do this, try renaming this file (currently named <code>web09.html</code>) to something
+            else of your choice. Follow up by adding to the <code>&lt;welcome-file-list&gt;</code> block a new
+            <code>&lt;welcome-file&gt;</code> entry to match your chosen name. If you re-run your application you
+            should still see this page.
+        </p>
+
+        <h2>Exercise file links</h2>
+        <p>For lab exercises using servlets you may want to create links to each exercise page on your index page. This
+            will make it easier to get the the correct page when re-running your application. For the first two files
+            links have been created for you. For the final exercise you will need to edit the below list to include a
+            link to your Image Gallery page.
+        </p>
+        <ul>
+            <li><a href="profile_form.html">Exercise 01 &nbsp;-&nbsp; Profile Form</a></li>
+            <li>Exercise 02-04 &nbsp;-&nbsp; Edit me to link to your article_form</li>
+            <li><a href="survey.html">Exercise 01-04 &nbsp;-&nbsp; Survey</a> </li>
+            <li>Exercise 07 &nbsp;-&nbsp; Edit me to link to your file</li>
+        </ul>
+    </body>
+</html>

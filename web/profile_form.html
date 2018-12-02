@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Profile Form</title>
+    </head>
+    <body>
+        <!-- IMPORTANT: Notice the action attribute specifies a relative URL.
+             Whenever you linking to files in your servlet project, make sure
+             you use relative paths. Also remember that if your path has a
+             leading '/' character, that URL will be interpreted as being
+             relative to the root of the server, NOT relative to the root of
+             your project. Whilst during development these might mean the same
+             thing, this will not be the case later on, so get in the habit of
+             avoiding those kinds of URL.                                      -->
+        <form action="ex01/ProfileServlet" method="GET">
+            <label for="fname">First name: </label>
+            <input type="text" id="fname" name="fname">
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+</html>
