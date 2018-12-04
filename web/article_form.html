@@ -5,6 +5,24 @@
     <title>Title</title>
 </head>
 <body>
-
+<form action="ex02/ArticleServlet" method="POST">
+    <label for="aTitle">Article Title: </label>
+    <input type="text" id="aTitle" name="aTitle">
+    <br>
+    <label for="aAuthor">Article Author: </label>
+    <input type="text" id="aAuthor" name="aAuthor">
+    <br>
+    <input type="radio" id="bus" name="aType" value="Business">
+    <label for="bus">Business</label>
+    <input type="radio" id="pol" name="aType" value="Politics">
+    <label for="pol">Politics</label>
+    <input type="radio" id="spo" name="aType" value="Sports">
+    <label for="spo">Sports</label>
+    <br>
+    <label for="aContent">Content:</label>
+    <br>
+    <textarea id="aContent" name="aContent" ></textarea>
+    <input type="submit" value="Submit">
+</form>
 </body>
 </html>
