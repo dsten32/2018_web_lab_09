@@ -25,6 +25,18 @@ public class ArticleServlet extends HttpServlet {
         out.println("<p> Genre: "+aGenre+"</p>");
         out.println("<p> "+aContent+"</p>");
 
+        out.println("<h2>this is a string array from Java:</h2>");
+//        out.println("<br>");
+
+        String[] sArray = {"Four","Three","Two","One"};
+
+        out.println("<ul>");
+
+        for (int i = 0; i < sArray.length; i++) {
+            out.println("<li>"+sArray[i]+"</li>");
+        }
+
+        out.println("</ul>");
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

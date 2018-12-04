@@ -9,10 +9,6 @@
     <list default="true" id="e30eb01e-d4ae-4dbc-9f2b-fb4577666110" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ictgradschool/web/lab09/ex02/ArticleServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ictgradschool/web/lab09/ex02/ArticleServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/article_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/article_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/profile_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/profile_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web09.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/web09.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,16 +46,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="337" />
-          <entry key="java" value="308" />
-          <entry key="txt" value="84" />
+          <entry key="java" value="485" />
+          <entry key="txt" value="97" />
           <entry key="xml" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="337" />
-          <entry key="JAVA" value="308" />
-          <entry key="PLAIN_TEXT" value="84" />
+          <entry key="JAVA" value="485" />
+          <entry key="PLAIN_TEXT" value="97" />
           <entry key="XML" value="43" />
         </counts>
       </usages-collector>
@@ -93,8 +89,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/web/article_form.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
-                  <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+                <state relative-caret-position="119">
+                  <caret line="7" selection-start-line="7" selection-end-line="7" />
                 </state>
               </provider>
             </entry>
@@ -141,8 +137,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/ictgradschool/web/lab09/ex02/ArticleServlet.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
-                  <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+                <state relative-caret-position="408">
+                  <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
                 </state>
               </provider>
             </entry>
@@ -258,7 +254,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543965637122" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543966028443" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -279,6 +275,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Launch Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.8" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="web_lab_09">
@@ -363,7 +360,7 @@
       <updated>1543739198544</updated>
       <workItem from="1543739199637" duration="35000" />
       <workItem from="1543739284284" duration="152000" />
-      <workItem from="1543961547803" duration="3970000" />
+      <workItem from="1543961547803" duration="4378000" />
     </task>
     <task id="LOCAL-00001" summary="added last name input and get parameters">
       <created>1543962869260</created>
@@ -386,17 +383,24 @@
       <option name="project" value="LOCAL" />
       <updated>1543963969665</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="did ex03-ex04">
+      <created>1543965678514</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543965678514</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4157000" />
+    <option name="totallyTimeSpent" value="4565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1308" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6944444" visible="true" weight="0.15705128" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6944444" visible="true" weight="0.15705128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -407,7 +411,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32968238" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32968238" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32968238" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -441,7 +445,8 @@
     <MESSAGE value="added last name input and get parameters" />
     <MESSAGE value="did ex01" />
     <MESSAGE value="added new mapping for article stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new mapping for article stuff" />
+    <MESSAGE value="did ex03-ex04" />
+    <option name="LAST_COMMIT_MESSAGE" value="did ex03-ex04" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ictgradschool/web/lab09/ex05/CGIParams.java">
@@ -497,15 +502,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/article_form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ictgradschool/web/lab09/ex02/ArticleServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+        <state relative-caret-position="408">
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
         </state>
       </provider>
     </entry>
