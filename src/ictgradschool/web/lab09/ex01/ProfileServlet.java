@@ -13,12 +13,16 @@ public class ProfileServlet extends HttpServlet {
         // request.getParameter accesses parameters from the submitted form
         String fname = request.getParameter("fname");
         String lname = request.getParameter("lname");
+        String bio = request.getParameter("bio");
 
         // printWriter is used to write to the HTML document
         PrintWriter out = response.getWriter();
 
         out.println("First Name: " + fname);
-        out.println("Last Name: " + lname);
+        out.println("<br /> Last Name: " + lname);
+        out.println();
+        out.println("<h1>Biography</h1>");
+        out.println(bio);
 
     }
 }
