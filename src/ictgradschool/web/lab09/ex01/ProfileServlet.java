@@ -18,8 +18,8 @@ public class ProfileServlet extends HttpServlet {
         // printWriter is used to write to the HTML document
         PrintWriter out = response.getWriter();
 
-        out.println("First Name: " + fname);
-        out.println("<br /> Last Name: " + lname);
+        out.println("<p>First Name: " + fname +"</p>");
+        out.println("<p> Last Name: " + lname+"</p>");
         out.println();
         out.println("<h1>Biography</h1>");
         out.println(bio);

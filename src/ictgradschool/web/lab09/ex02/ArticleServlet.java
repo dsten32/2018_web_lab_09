@@ -13,18 +13,11 @@ public class ArticleServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
         doGet(request,response);
-//        String aTitle = request.getParameter("aTitle");
-//        String aAuthor = request.getParameter("aAuthor");
-//        String aContent = request.getParameter("aContent");
-//        String aGenre = request.getParameter("aType");
+//
 //
         PrintWriter out = response.getWriter();
 //
-//        out.println("<h1>"+aTitle+" using POST</h1>");
 //
-//        out.println("<p> by: "+aAuthor+"</p>");
-//        out.println("<p> Genre: "+aGenre+"</p>");
-//        out.println("<p> "+aContent+"</p>");
 
         out.println("<h2>this is a string array from Java (via Post):</h2>");
 //        out.println("<br>");
@@ -41,16 +34,14 @@ public class ArticleServlet extends HttpServlet {
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        PrintWriter out = response.getWriter();
 
         String aTitle = request.getParameter("aTitle");
         String aAuthor = request.getParameter("aAuthor");
         String aContent = request.getParameter("aContent");
         String aGenre = request.getParameter("aType");
 
-        PrintWriter out = response.getWriter();
-
         out.println("<h1>"+aTitle+" via GET</h1>");
-
         out.println("<p> by: "+aAuthor+"</p>");
         out.println("<p> Genre: "+aGenre+"</p>");
         out.println("<p> "+aContent+"</p>");

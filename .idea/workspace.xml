@@ -7,11 +7,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e30eb01e-d4ae-4dbc-9f2b-fb4577666110" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ictgradschool/web/lab09/imagegallerydisplay/ImageGalleryDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/ex07.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web09.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/web09.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ictgradschool/web/lab09/ex01/ProfileServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ictgradschool/web/lab09/ex01/ProfileServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ictgradschool/web/lab09/ex02/ArticleServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ictgradschool/web/lab09/ex02/ArticleServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ictgradschool/web/lab09/imagegallerydisplay/ImageGalleryDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ictgradschool/web/lab09/imagegallerydisplay/ImageGalleryDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Lynx.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Lynx.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Lynx_thumbnail.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Lynx_thumbnail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Pallas_Cat_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Pallas_Cat_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Pallas_Cat_1_thumbnail.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Pallas_Cat_1_thumbnail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Pallas_Cat_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Pallas_Cat_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Pallas_Cat_2_thumbnail.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Pallas_Cat_2_thumbnail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Pika.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Pika.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Pika_(Himalayan).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Pika_(Himalayan).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Pika_(Himalayan)_thumbnail.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Pika_(Himalayan)_thumbnail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Pika_thumbnail.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Pika_thumbnail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Quokka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Quokka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Quokka_thumbnail.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Quokka_thumbnail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Red_Panda.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Red_Panda.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Red_Panda_thumbnail.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Red_Panda_thumbnail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Wombat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Wombat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Wombat_grazing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Wombat_grazing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Wombat_grazing_thumbnail.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Wombat_grazing_thumbnail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Wombat_thumbnail.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Wombat_thumbnail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Wombats.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Wombats.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Photos/Wombats_thumbnail.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/Photos/Wombats_thumbnail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/article_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/article_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/ex07.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/ex07.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +46,7 @@
     <session id="-235385101">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -31,8 +54,8 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="html" value="7" />
-          <entry key="java" value="8" />
+          <entry key="html" value="9" />
+          <entry key="java" value="12" />
           <entry key="jsp" value="1" />
           <entry key="xml" value="2" />
         </counts>
@@ -40,25 +63,25 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="HTML" value="7" />
-          <entry key="JAVA" value="8" />
+          <entry key="HTML" value="9" />
+          <entry key="JAVA" value="12" />
           <entry key="JSP" value="1" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="404" />
-          <entry key="java" value="670" />
-          <entry key="txt" value="111" />
+          <entry key="html" value="533" />
+          <entry key="java" value="1829" />
+          <entry key="txt" value="179" />
           <entry key="xml" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="404" />
-          <entry key="JAVA" value="670" />
-          <entry key="PLAIN_TEXT" value="111" />
+          <entry key="HTML" value="533" />
+          <entry key="JAVA" value="1829" />
+          <entry key="PLAIN_TEXT" value="179" />
           <entry key="XML" value="58" />
         </counts>
       </usages-collector>
@@ -66,11 +89,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ictgradschool/web/lab09/imagegallerydisplay/ImageGalleryDisplay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="117">
+              <caret line="46" column="15" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ictgradschool/web/lab09/ex02/ArticleServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ictgradschool/web/lab09/ex05/CGIParams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/ex07.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -90,16 +140,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ictgradschool/web/lab09/ex01/ProfileServlet.java" />
         <option value="$PROJECT_DIR$/web/profile_form.html" />
-        <option value="$PROJECT_DIR$/web/article_form.html" />
         <option value="$PROJECT_DIR$/web/survey.html" />
-        <option value="$PROJECT_DIR$/src/ictgradschool/web/lab09/ex02/ArticleServlet.java" />
         <option value="$PROJECT_DIR$/src/ictgradschool/web/lab09/ex05/CGIParams.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/ictgradschool/web/lab09/imagegallerydisplay/ImageGalleryDisplay.java" />
-        <option value="$PROJECT_DIR$/web/ex07.html" />
         <option value="$PROJECT_DIR$/web/web09.html" />
+        <option value="$PROJECT_DIR$/web/article_form.html" />
+        <option value="$PROJECT_DIR$/web/ex07.html" />
+        <option value="$PROJECT_DIR$/src/ictgradschool/web/lab09/imagegallerydisplay/ImageGalleryDisplay.java" />
+        <option value="$PROJECT_DIR$/src/ictgradschool/web/lab09/ex01/ProfileServlet.java" />
+        <option value="$PROJECT_DIR$/src/ictgradschool/web/lab09/ex02/ArticleServlet.java" />
       </list>
     </option>
   </component>
@@ -118,7 +168,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="1314" />
+    <option name="width" value="1359" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -143,20 +193,6 @@
               <item name="2018s_web_lab_09" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lab09" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2018s_web_lab_09" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2018s_web_lab_09" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab09" type="462c0819:PsiDirectoryNode" />
-              <item name="ex01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2018s_web_lab_09" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2018s_web_lab_09" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab09" type="462c0819:PsiDirectoryNode" />
-              <item name="ex02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2018s_web_lab_09" type="b2602c69:ProjectViewProjectNode" />
@@ -195,12 +231,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543971554118" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543981050802" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23678161" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dwc1\IdeaProjects\2018s_web_lab_09\web" />
+      <recent name="C:\Users\dwc1\IdeaProjects\2018s_web_lab_09\web\WEB-INF" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -301,7 +343,7 @@
       <updated>1543739198544</updated>
       <workItem from="1543739199637" duration="35000" />
       <workItem from="1543739284284" duration="152000" />
-      <workItem from="1543961547803" duration="8266000" />
+      <workItem from="1543961547803" duration="17786000" />
     </task>
     <task id="LOCAL-00001" summary="added last name input and get parameters">
       <created>1543962869260</created>
@@ -345,28 +387,34 @@
       <option name="project" value="LOCAL" />
       <updated>1543968494670</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="starting ex07, have created new page and servlet and updated web.xml">
+      <created>1543971624668</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1543971624668</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8453000" />
+    <option name="totallyTimeSpent" value="17973000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1314" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="1078" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7663399" visible="true" weight="0.15629984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7667032" visible="true" weight="0.30451867" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.23366013" side_tool="true" visible="true" weight="0.15629984" />
+      <window_info id="Web" order="7" sideWeight="0.23329683" side_tool="true" visible="true" weight="0.30451867" />
       <window_info anchor="bottom" id="Messages" weight="0.32968238" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32968238" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -403,7 +451,8 @@
     <MESSAGE value="did ex03-ex04" />
     <MESSAGE value="did ex04" />
     <MESSAGE value="did ex05-ex06" />
-    <option name="LAST_COMMIT_MESSAGE" value="did ex05-ex06" />
+    <MESSAGE value="starting ex07, have created new page and servlet and updated web.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="starting ex07, have created new page and servlet and updated web.xml" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/ictg/tomcat/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
@@ -416,34 +465,10 @@
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/article_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ictgradschool/web/lab09/ex01/ProfileServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/profile_form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ictgradschool/web/lab09/ex02/ArticleServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="28" column="68" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -454,24 +479,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ictgradschool/web/lab09/ex05/CGIParams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="57" column="4" lean-forward="true" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/ex07.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="82" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
         </state>
       </provider>
     </entry>
@@ -486,10 +497,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/article_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/ex07.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ictgradschool/web/lab09/ex01/ProfileServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ictgradschool/web/lab09/imagegallerydisplay/ImageGalleryDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="117">
+          <caret line="46" column="15" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ictgradschool/web/lab09/ex02/ArticleServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ictgradschool/web/lab09/ex05/CGIParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
         </state>
       </provider>
     </entry>
