@@ -86,6 +86,8 @@ public class CGIParams extends HttpServlet {
         Map<String, String[]> map = request.getParameterMap();
         Iterator<Entry<String, String[]>> i = map.entrySet().iterator();
 
+        out.println("<table style='border-collapse: collapse'>");
+
         while(i.hasNext()) {
             Entry<String, String[]> entry = i.next();
             String key = entry.getKey(); //.toUpperCase();
@@ -100,15 +102,18 @@ public class CGIParams extends HttpServlet {
                 key = key.substring(0, index);
             }
 
-            out.print(key + " - ");
+//            out.print(key + " - ");
+            out.print("<tr><td style='border: 1px solid black; padding:10px'>"+key+":</td>");
 
             for(String value: values) {
-                out.print("&lt;" + value + "&gt; ");
+//                out.print("&lt;" + value + "&gt; ");
+                out.print("<td style='border: 1px solid black; padding:10px'>"+ value +"</td></tr>");
             }
 
             out.println("<br>");
         }
 
+        out.println("</table>");
         out.println("</body></html>");
     }
 }
